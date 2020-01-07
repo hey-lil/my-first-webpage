@@ -12,9 +12,14 @@ h2 {
 
 p {
   font-family: serif;
+  font-size: 15px;
+  color: #3B483D;
+  font-weight: 4px;
+  line-height: 20px;
 }
 
 ul {
   font-size: 15px;
   line-height: 25px;
+  text-transform: italic;
 }
